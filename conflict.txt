@@ -1,1 +1,1 @@
-Expense status: pending
+Expense status: rejected
